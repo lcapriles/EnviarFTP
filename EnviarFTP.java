@@ -3,7 +3,7 @@ package com.qualita.util.SFTP;
 import com.jcraft.jsch.*;
 
 public class EnviarFTP {
-  private static final String REMOTE_HOST = "140.238.64.69";
+  private static final String REMOTE_HOST = "lachlinux";
   private static final String USERNAME = "ubuntu";
   private static final int REMOTE_PORT = 22;
   public static void main(String[] args) {
